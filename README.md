@@ -1,1 +1,1 @@
-# odin-landing-page
+HTML and CSS web page for The Odin Project.
