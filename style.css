@@ -56,14 +56,17 @@ body {
     color: #E5E7EB;
 }
 
-.body-hero button {
+button {
     padding: 8px 32px;
     border-radius: 7px;
-    background-color: #3882F6;
-    color: #F9FAF8;
     font-weight: bold;
     font-size: 18px;
+}
+
+.body-hero button {
     border: none;
+    background-color: #3882F6;
+    color: #F9FAF8;
     margin-top: 10px;
 }
 
@@ -151,4 +154,30 @@ a {
 .author {
     font-weight: bold;
     align-self: end;
+}
+
+/* body-action */
+
+.body-action {
+    padding: 75px 200px;
+}
+
+.cover {
+    background-color: #3882F6;
+    border-radius: 5px;
+    padding: 50px 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.action-text {
+    font-size: 24px;;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.cover button {
+    background-color: inherit;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
 }
