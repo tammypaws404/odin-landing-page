@@ -12,13 +12,13 @@ body {
 .body-info,
 .body-quote,
 .body-action {
-    padding: 0 200px;
+    padding: 0 250px;
 }
 
 /* header */
 .header {
     background-color: #1F2937;
-    padding: 16px 200px; /* change to flex-grow */
+    padding: 16px 250px; /* change to flex-grow */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -40,7 +40,7 @@ body {
 }
 
 .texts {
-    flex: 3;
+    flex: 2;
     flex-direction: column;
     gap: 5px;
 }
@@ -71,15 +71,13 @@ button {
 }
 
 .big-image {
-    flex: 4;
+    flex: 3;
     text-align: end;
-    display: flex;
 }
 
 .big-image img {
-    height: 230px;
+    height: 235px;
     width: auto;
-    flex: 1;
 }
 
 ul {
@@ -160,7 +158,7 @@ a {
 /* body-action */
 
 .body-action {
-    padding: 75px 200px;
+    padding: 75px 250px;
     background-color: white;
 }
 
