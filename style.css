@@ -92,3 +92,38 @@ a {
     text-decoration: none;
     color: #E5E7EB;
 }
+
+/* body info */
+
+.info-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    padding: 24px 0;
+    text-align: center;
+    padding: 35px 0;
+}
+
+.small-images {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.container {
+    text-align: center;
+    max-width: min-content;
+}
+
+.small-images img {
+    border: 4px solid #3882F6;
+    border-radius: 10px;
+    height: 200px;
+    width: auto;
+}
+
+.container div {
+    font-size: 18px;
+    color: #1F2937;
+    margin-top: 5px;
+}
