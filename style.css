@@ -4,6 +4,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    background-color: #1F2937;
 }
 
 .header,
@@ -99,6 +100,7 @@ a {
 
 .body-info {
     padding-bottom: 75px;
+    background-color: white;
 }
 
 .info-header {
@@ -159,6 +161,7 @@ a {
 
 .body-action {
     padding: 75px 200px;
+    background-color: white;
 }
 
 .cover {
