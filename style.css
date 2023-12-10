@@ -95,6 +95,10 @@ a {
 
 /* body info */
 
+.body-info {
+    padding-bottom: 75px;
+}
+
 .info-header {
     font-size: 36px;
     font-weight: bolder;
